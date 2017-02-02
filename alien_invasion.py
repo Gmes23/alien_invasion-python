@@ -15,7 +15,7 @@ def run_game():
     pygame.display.set_caption("Space Invaders")
 
     # Make a ship
-    ship = Ship(screen)
+    ship = Ship(ai_settings, screen)
 
     # Set Main Background Color.
     bg_color = (230, 230, 230)
