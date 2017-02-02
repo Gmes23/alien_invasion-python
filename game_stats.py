@@ -6,8 +6,8 @@ class GameStats():
         self.ai_settings = ai_settings
         self.reset_stats()
 
-        # Start spaceinvaders in an active state.
-        self.game_active = True
+        # Start spaceinvaders in a false state.
+        self.game_active = False
 
     def reset_stats(self):
         """Initialize statistics that can change during the game."""
