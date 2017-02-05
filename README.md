@@ -12,7 +12,7 @@ to create a grid of elements, how to track the statistics in a game and use flag
 
 
 ## Demo:
-[![web app](https://cloud.githubusercontent.com/assets/20157000/22623388/5a742aac-eb27-11e6-8f59-870eed6ab8da.png)]
+![web app](https://cloud.githubusercontent.com/assets/20157000/22623388/5a742aac-eb27-11e6-8f59-870eed6ab8da.png)
 
 ### Prerequisities
 
